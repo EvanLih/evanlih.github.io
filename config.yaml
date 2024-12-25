@@ -1,0 +1,5 @@
+[module]
+[[module.imports]]
+  path = "github.com/Sped0n/bridget/v2"
+  # bridget 
+ 
