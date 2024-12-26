@@ -1,5 +1,5 @@
 [sitemap]
-  changeFreq = ''
+  changeFreq = 'daily'
   disable = false
   filename = 'sitemap.xml'
-  priority = -1
+  priority = 0.5
