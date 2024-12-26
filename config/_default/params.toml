@@ -1,5 +1,5 @@
 # description of the site (will be placed in meta)
-description = "Bridget is a minimal Hugo theme designed for photographers/visual artists."
+description = "evan lih photography testing"
 
 # whether to use favicon resource links
 # generate these with https://realfavicongenerator.net
@@ -46,10 +46,10 @@ server = ""
 id = ""
 # Umami Analytics
 [analytics.umami]
-data_website_id = "44a4a42d-ec8e-44c9-a38c-7533929e9845"
-src = "https://umami.sped0n.com/script.js"
-data_host_url = ""
-data_domains = "bridget-demo.sped0n.com"
+#data_website_id = "44a4a42d-ec8e-44c9-a38c-7533929e9845"
+#src = "https://umami.sped0n.com/script.js"
+#data_host_url = ""
+#data_domains = "bridget-demo.sped0n.com"
 # Plausible Analytics
 [analytics.plausible]
 data_domain = ""
