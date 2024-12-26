@@ -1,10 +1,10 @@
 ---
 type: _default
 layout: single
-url: /Places/
+url: /
 menu:
   main:
-    weight: 2
+    weight: 1
     identifier: 'Places'
     title: 'Places'
 unifiedAlt: '© Evan Lih'
