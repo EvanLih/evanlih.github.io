@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /Things/
+url: /things/
 menu:
   main:
     weight: 3
-    identifier: 'Things'
-    title: 'Things'
+    identifier: 'things'
+    title: 'things'
 unifiedAlt: '© Evan Lih'
 _build:
   publishResources: false

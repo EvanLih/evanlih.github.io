@@ -5,8 +5,8 @@ url: /
 menu:
   main:
     weight: 1
-    identifier: 'Places'
-    title: 'Places'
+    identifier: 'places'
+    title: 'places'
 unifiedAlt: '© Evan Lih'
 _build:
   publishResources: false
