@@ -4,7 +4,7 @@ layout: single
 url: /People/
 menu:
   main:
-    weight: 1
+    weight: 2
     identifier: 'People'
     title: 'People'
 unifiedAlt: '© Evan Lih'
