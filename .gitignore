@@ -3,6 +3,7 @@
 .hugo_build.lock
 /resources/
 .hugo_cache/
+_vendor
 
 # Logs and temporary files
 *.log
