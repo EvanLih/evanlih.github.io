@@ -1,11 +1,14 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'evanlih.github.io'
+#baseURL = 'evanlih.github.io'
+
+#test updated url
+baseURL = "https://evanlih.photography"
 
 #test dynamic baseurl
-#baseURL = "/"
-#relativeURLS = true
+relativeURLs = false
+canonifyURLs = true
 
 # website title
 title = 'Evan'
