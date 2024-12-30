@@ -12,7 +12,7 @@ _build:
   publishResources: false
 ---
 
-this is a _photography space_ _for_ ___evan lih___ 
+a _photography space_ _for_ ___evan lih___ 
 
 **_primary gear:_**  
   --- _sony α6300_  
