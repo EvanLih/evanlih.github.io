@@ -23,11 +23,12 @@ this is a _photography space_ _for_ ___evan lih___
 <br><br>
 
 links:
-
 <br>
   --- <a href="https://www.linkedin.com/in/evan-lih/">linkedIn ↗</a>
 <br>
   --- <a href ="https://www.strava.com/athletes/15481691">strava ↗</a>
+<br>
+  --- <a href ="https://www.instagram.com/evan__lih/">instagram ↗</a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br> <!-- Add multiple line breaks -->
 
