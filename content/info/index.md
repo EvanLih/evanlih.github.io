@@ -33,6 +33,6 @@ links:
 <br><br><br><br><br><br><br><br><br><br><br><br> <!-- Add multiple line breaks -->
 
 _&copy; {{< year >}} evan lih_  
-evanlih.com in development
+evanlih.com in development - stay tuned
 
 
