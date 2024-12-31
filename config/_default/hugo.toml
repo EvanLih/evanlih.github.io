@@ -11,7 +11,8 @@ relativeURLs = false
 canonifyURLs = true
 
 # website title
-title = '[evan | wip] (tap here to load)'
+title = 'evan (wip | tap to load)'
+
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
