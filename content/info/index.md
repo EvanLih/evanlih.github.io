@@ -7,12 +7,12 @@ menu:
     weight: 4
     identifier: info
     title: info
-unifiedAlt: ''
+unifiedAlt: '© Evan Lih'
 _build:
   publishResources: false
 ---
 
-a _photography space_ _for_ ___evan lih___ 
+evan's life, a continual wip
 
 **_primary gear:_**  
   --- _sony α6300_  
