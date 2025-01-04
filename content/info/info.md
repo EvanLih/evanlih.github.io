@@ -12,12 +12,14 @@ _build:
   publishResources: false
 ---
 
-evan's life, a continual wip
+### evan's life, a continual wip ###
 
-**_primary gear:_**  
-  --- _sony α6300_  
-  --- _iphone 15 pro_  
-  --- _dji mini 2_
+**_primary gear:_**
+  - _sony α6300_  
+        -- _sel24f18z_
+        -- _sel1670z_
+  - _iphone 15 pro_  
+  - _dji mini 2_
 
 
 <br><br>
