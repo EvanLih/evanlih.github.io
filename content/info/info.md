@@ -18,7 +18,6 @@ _build:
   - _sony α6300_  
         -- _sony sel24f18z_
         -- _sony sel1670z_
-        -- _7artisans m2UFO_
   - _iphone 15 pro_  
   - _dji mini 2_
 
