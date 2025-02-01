@@ -16,8 +16,8 @@ _build:
 
 **_primary gear:_**
   - _sony α6300_  
-        -- _sony sel24f18z_
-        -- _sony sel1670z_
+        -- _24mm f/1.8_
+        -- _16-70mm f/4_
   - _iphone 15 pro_  
   - _dji mini 2_
 
