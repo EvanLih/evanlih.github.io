@@ -15,14 +15,10 @@ _build:
 ### evan's life, a continual wip ###
 
 **_primary gear:_**
-  - _sony α6300_  
-        -- _24mm f/1.8_
-        -- _16-70mm f/4_
-  - _iphone 15 pro_  
-  - _dji mini 2_
+  - _iphone 18 pro_
   - _dji mini 5 pro_
-  - _dji avata 360_
   - _insta360 go ultra_
+  - _insta360 x6_
 
 
 <br><br>
