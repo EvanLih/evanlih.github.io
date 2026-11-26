@@ -19,7 +19,6 @@ _build:
         -- _24mm f/1.8_
         -- _16-70mm f/4_
   - _iphone 18 pro_
-  - _iphone 15 pro (retired)_
 
 <br>
 
@@ -31,7 +30,12 @@ _build:
 
 **_aerial:_**
   - _dji mini 5 pro_
-  - _dji mini 2 (retired)_
+
+<br>
+
+**_retired:_**
+  - <span style="text-decoration: line-through">iphone 15 pro</span>
+  - <span style="text-decoration: line-through">dji mini 2</span>
 
 
 <br><br>
