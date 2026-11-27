@@ -2,6 +2,8 @@
 
 How this site is built, hosted and updated. This file lives at the repo root, so Hugo never publishes it to the site.
 
+To set everything up again from zero (GitHub Pages, Cloudflare, DNS records), follow [REBUILD.md](REBUILD.md).
+
 ## How it's connected
 
 ```
